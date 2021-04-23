@@ -10,12 +10,12 @@ I have made this repository about using basic features of [Computer Vision](http
 * [Cv2](https://pypi.org/project/opencv-python/) & [Numpy](https://numpy.org/install/)
 
 ## **Codes**
-1. Canny Image
-2. Grayscale Image
-3. HSV Image
-4. Video or Webcam
-5. All Type Image
-6. Stacking Images
+1. [Canny Image](1.py)
+2. [Grayscale Image](2.py)
+3. [HSV Image](3.py)
+4. [Video or Webcam](4.py)
+5. [All Type Image](5.py)
+6. [Stacking Images](6.py)
 
 
 
