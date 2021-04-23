@@ -25,7 +25,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ## **Explanation**
 ***
-* 1st Code
+* **[1st Code](1.py)**
 
 **Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
 
@@ -38,6 +38,22 @@ I have made this repository about using basic features of [Computer Vision](http
 **The Output is as shown below** <br />
 ![1st code img](https://user-images.githubusercontent.com/81790487/115868157-a3146700-a459-11eb-9e4f-dc1ee64f28d2.PNG)
 
+***
+* **[2nd Code](2.py)**
+
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
+
+**Working** - The code uses cvt color function of cv2 library to convert color of Image to Grayscale.
+
+**Results** - It displays the RGB image you provided in Grayscale format.
+
+**Applications** - It is used while making various projects based on Computer Vision .
+
+**The Output is as shown below** <br />
+![2nd code img](https://user-images.githubusercontent.com/81790487/115870522-fb993380-a45c-11eb-905c-fc853d5643da.PNG)
+
+
+***
 
 
 
