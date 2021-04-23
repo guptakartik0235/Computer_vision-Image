@@ -14,12 +14,12 @@ I have made this repository about using basic features of [Computer Vision](http
 ***
 
 ## **Codes**
-1. [Canny Image](1.py)
-2. [Grayscale Image](2.py)
-3. [HSV Image](3.py)
-4. [Video or Webcam](4.py)
-5. [All Type Image](5.py)
-6. [Stacking Images](6.py)
+1. [Canny Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#1st-code)
+2. [Grayscale Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#2nd-code)
+3. [HSV Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#3rd-code)
+4. [Video or Webcam](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#4th-code)
+5. [All Type Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#5th-code)
+6. [Stacking Images](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#7th-code)
 
 ***
 
