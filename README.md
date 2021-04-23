@@ -25,7 +25,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ## **Explanation**
 ***
-* **[1st Code](1.py)**
+* ### __[1st Code](1.py)__ ###
 
 **Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
@@ -39,7 +39,7 @@ I have made this repository about using basic features of [Computer Vision](http
 ![1st code img](https://user-images.githubusercontent.com/81790487/115868157-a3146700-a459-11eb-9e4f-dc1ee64f28d2.PNG)
 
 ***
-* **[2nd Code](2.py)**
+* ### __[2nd Code](2.py)__ ###
 
 **Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
@@ -55,8 +55,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ***
 
-* **[3rd Code](3.py)**
-
+* ### __[3rd Code](3.py)__ ###
 **Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
 **Working** - The code uses cvt color & BGR2HSV function of opencv library to convert Image to HSV Image.
@@ -70,7 +69,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ***
 
-* **[4th Code](4.py)**
+* ### __[4th Code](4.py)__ ###
 
 **Inputs** - The code requires the path within double inverted commas to be changed by path of any Video or just simply type 0 without commas for Webcam.
 
@@ -84,7 +83,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 
 ***
-* **[5th Code](5.py)**
+* ### __[5th Code](5.py)__ ###
 
 **Inputs** - The code requires the input as Y or N if u want to display the type of image or Video .It also requires path to be changed to image that is to be shown.
 
@@ -97,7 +96,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ***
 
-* **[6th Code](6.py)**
+* ### __[6th Code](6.py)__ ###
 
 **Inputs** - It requires the path in the code to be changed to any Image you want .
 
