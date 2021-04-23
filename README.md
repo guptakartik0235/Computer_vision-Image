@@ -55,7 +55,20 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ***
 
+* **[3rd Code](3.py)**
 
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
+
+**Working** - The code uses cvt color & BGR2HSV function of opencv library to convert Image to HSV Image.
+
+**Results** - It displays Image according to Hue, Saturation & value of Lightness of Image.
+
+**Applications** - It is used in various Color Detection Opencv Programs.
+
+**The Output is as shown below** <br />
+![3rd img code](https://user-images.githubusercontent.com/81790487/115872143-15d41100-a45f-11eb-8cfb-818c0d4c57d8.PNG)
+
+***
 
 
 
