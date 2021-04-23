@@ -27,7 +27,7 @@ I have made this repository about using basic features of [Computer Vision](http
 ***
 * **[1st Code](1.py)**
 
-**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
 **Working** - The code uses [Canny](https://docs.opencv.org/master/da/d22/tutorial_py_canny.html) function of opencv library to find Edges of a particular Image.
 
@@ -41,7 +41,7 @@ I have made this repository about using basic features of [Computer Vision](http
 ***
 * **[2nd Code](2.py)**
 
-**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
 **Working** - The code uses cvt color function of cv2 library to convert color of Image to Grayscale.
 
@@ -57,7 +57,7 @@ I have made this repository about using basic features of [Computer Vision](http
 
 * **[3rd Code](3.py)**
 
-**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image path.
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Image.
 
 **Working** - The code uses cvt color & BGR2HSV function of opencv library to convert Image to HSV Image.
 
@@ -70,10 +70,46 @@ I have made this repository about using basic features of [Computer Vision](http
 
 ***
 
+* **[4th Code](4.py)**
+
+**Inputs** - The code requires the path within double inverted commas to be changed by path of any Video or just simply type 0 without commas for Webcam.
+
+**Working** - The code uses video Capture function of cv2 & uses while loop to make the video run constantly .
+
+**Results** - It displays Video or Webcam according to the path provided by you.
+
+**Applications** - It is used in realtime detection Programs for webcams.
+
+**The Output is as shown below** <br />
 
 
+***
+* **[5th Code](5.py)**
 
+**Inputs** - The code requires the input as Y or N if u want to display the type of image or Video .It also requires path to be changed to image that is to be shown.
 
+**Working** - The code uses various elif conditions to display image you selected .
+
+**Results** - It displays the type of Image you selected to display.
+
+**The Output is as shown below** <br />
+![5th code img](https://user-images.githubusercontent.com/81790487/115878897-b7129580-a466-11eb-8f16-f66ba8b5b1ee.PNG)
+
+***
+
+* **[6th Code](6.py)**
+
+**Inputs** - It requires the path in the code to be changed to any Image you want .
+
+**Working** - The code uses stacking function of numpy to stack our images together  .
+
+**Results** - It displays the Grayscale & Canny image of selected Image & stack them together  .
+
+**Applications** - It is used for make our output look in a formal & standard manner.
+
+**The Output is as shown below** <br />
+
+![6th code img](https://user-images.githubusercontent.com/81790487/115879842-baf2e780-a467-11eb-8b17-926017f61dff.PNG)
 
 
 
