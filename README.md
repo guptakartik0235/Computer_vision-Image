@@ -19,7 +19,7 @@ I have made this repository about using basic features of [Computer Vision](http
 3. [HSV Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#3rd-code)
 4. [Video or Webcam](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#4th-code)
 5. [All Type Image](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#5th-code)
-6. [Stacking Images](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#7th-code)
+6. [Stacking Images](https://github.com/guptakartik0235/Computer_vision-Image/blob/main/README.md#6th-code)
 
 ***
 
